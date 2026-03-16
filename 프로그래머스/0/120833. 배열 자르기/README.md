@@ -1,10 +1,10 @@
 # [level 0] 배열 자르기 - 120833 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120833?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120833) 
 
 ### 성능 요약
 
-메모리: 9.22 MB, 시간: 0.00 ms
+메모리: 9.02 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 16일 11:48:30
+2026년 03월 16일 11:50:26
 
 ### 문제 설명
 
